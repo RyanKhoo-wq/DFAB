@@ -113,3 +113,38 @@ h1 {
     height: 450px;
     margin-left: 20px;
 }
+
+#before {
+    height: 400px;
+    width: 650px
+}
+
+#after {
+    height: 400px;
+    width: 420px;
+}
+
+#imgtrace {
+    height:300px;
+    width: 320px;
+}
+
+#negative {
+    height: 300px;
+    width: 320px;
+    margin-left: 20px;
+    border: 1px solid;
+}
+
+#outline {
+    height: 300px;
+    width: 320px;
+    margin-left: 20px;
+    border: 1px solid;
+}
+
+#simplify {
+    height: 300px;
+    width: 320px;
+    margin-left: 20px;
+}
